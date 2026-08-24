@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Synaptic.MCP.Unity.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Synaptic.MCP.Unity.csproj" />
+  <Project Path="Synaptic.MCP.Unity.TestRunner.csproj" />
+  <Project Path="Synaptic.Bootstrap.Editor.csproj" />
+</Solution>
